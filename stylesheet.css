@@ -1,7 +1,7 @@
  <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
+      background-color: #00ff7f;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -47,21 +47,11 @@
     }
 
     .btn.orange {
-      background-color: #ff9900;
+      background-color: #00ff7f;
       color: #fff;
     }
   </style>
 
 
-<style>
-    .instructions-button {
-      background-color: #007bff;
-      color: #fff;
-      border: none;
-      padding: 10px 20px;
-      font-size: 16px;
-      cursor: pointer;
-    }
-  </style>
 
 }
