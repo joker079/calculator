@@ -10,7 +10,7 @@
     }
 
     .calculator {
-      width: 400px; /* 幅を拡大 */
+      width: 400px;
       background-color: #fff;
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
